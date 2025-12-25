@@ -1,6 +1,6 @@
 # Hi, I’m Touqeer 👋
 
-I am a software developer.
+I am a software developer. you can call me Toqi.
 
 ## About me
 - Backend-focused software developer with recent frontend experience  
