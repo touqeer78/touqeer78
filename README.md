@@ -1,6 +1,6 @@
 # Hi, I’m Touqeer 👋
 
-I am a software developer with deep experience in backend systems and recent professional experience working with frontend development.
+I am a software developer.
 
 ## About me
 - Backend-focused software developer with recent frontend experience  
